@@ -1,3 +1,5 @@
+![MASS-UBMATF](https://img.shields.io/badge/MASS--UBMATF-Computational_Astrobiology_2026-blue)
+
 ## Computational Astrobiology – Project: Exoplanet Habitability with PLATO using PSLS
 
 This project implements a modular data processing and machine learning pipeline to simulate, clean, validate, and analyze planetary transit signatures from **PSLS** stellar timeseries data. Designed around the instrument capabilities and scientific goals of the upcoming **PLATO** mission, this repository aims to provide tools to transition from raw stellar parameters to sensible exoplanet habitability classifications. By bridging the gap from forward modeled astrophysics to modern ensemble classification and regression techniques, the pipeline automates the identification of worlds capable of retaining atmospheres and supporting liquid surface water.
